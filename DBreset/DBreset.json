@@ -1,0 +1,226 @@
+[
+  {
+    "table": "alumnifreechildcomments",
+    "drop": 0
+  },
+  {
+    "table": "alumnifreecomments",
+    "drop": 0
+  },
+  {
+    "table": "alumnifrees",
+    "drop": 0
+  },
+  {
+    "table": "alumnigradechildcomments",
+    "drop": 0
+  },
+  {
+    "table": "alumnigradecomments",
+    "drop": 0
+  },
+  {
+    "table": "alumnigrades",
+    "drop": 0
+  },
+  {
+    "table": "alumnigraduatechildcomments",
+    "drop": 0
+  },
+  {
+    "table": "alumnigraduatecomments",
+    "drop": 0
+  },
+  {
+    "table": "alumnigraduates",
+    "drop": 0
+  },
+  {
+    "table": "alumnijobchildcomments",
+    "drop": 0
+  },
+  {
+    "table": "alumnijobcomments",
+    "drop": 0
+  },
+  {
+    "table": "alumnijobs",
+    "drop": 0
+  },
+  {
+    "table": "alumninoticechildcomments",
+    "drop": 0
+  },
+  {
+    "table": "alumninoticecomments",
+    "drop": 0
+  },
+  {
+    "table": "alumninotices",
+    "drop": 0
+  },
+  {
+    "table": "androidnoticechildcomments",
+    "drop": 0
+  },
+  {
+    "table": "androidnoticecomments",
+    "drop": 0
+  },
+  {
+    "table": "androidnotices",
+    "drop": 0
+  },
+  {
+    "table": "archivechildcomments",
+    "drop": 0
+  },
+  {
+    "table": "archivecomments",
+    "drop": 0
+  },
+  {
+    "table": "archives",
+    "drop": 0
+  },
+  {
+    "table": "councilSuggestions",
+    "drop": 0
+  },
+  {
+    "table": "councilgradefreechildcomments",
+    "drop": 0
+  },
+  {
+    "table": "councilgradefreecomments",
+    "drop": 0
+  },
+  {
+    "table": "councilgradefrees",
+    "drop": 0
+  },
+  {
+    "table": "councilgradenoticechildcomments",
+    "drop": 0
+  },
+  {
+    "table": "councilgradenoticecomments",
+    "drop": 0
+  },
+  {
+    "table": "councilgradenotices",
+    "drop": 0
+  },
+  {
+    "table": "councilnoticechildcomments",
+    "drop": 0
+  },
+  {
+    "table": "councilnoticecomments",
+    "drop": 0
+  },
+  {
+    "table": "councilnotices",
+    "drop": 0
+  },
+  {
+    "table": "devSuggestions",
+    "drop": 0
+  },
+  {
+    "table": "eggs",
+    "drop": 0
+  },
+  {
+    "table": "fcm_tokens",
+    "drop": 0
+  },
+  {
+    "table": "groupSuggestions",
+    "drop": 0
+  },
+  {
+    "table": "groupfreechildcomments",
+    "drop": 0
+  },
+  {
+    "table": "groupfreecomments",
+    "drop": 0
+  },
+  {
+    "table": "groupfrees",
+    "drop": 0
+  },
+  {
+    "table": "grouplibraries",
+    "drop": 0
+  },
+  {
+    "table": "grouplibrarychildcomments",
+    "drop": 0
+  },
+  {
+    "table": "grouplibrarycomments",
+    "drop": 0
+  },
+  {
+    "table": "groupnoticechildcomments",
+    "drop": 0
+  },
+  {
+    "table": "groupnoticecomments",
+    "drop": 0
+  },
+  {
+    "table": "groupnotices",
+    "drop": 0
+  },
+  {
+    "table": "groups",
+    "drop": 0
+  },
+  {
+    "table": "iosnoticechildcomments",
+    "drop": 0
+  },
+  {
+    "table": "iosnoticecomments",
+    "drop": 0
+  },
+  {
+    "table": "iosnotices",
+    "drop": 0
+  },
+  {
+    "table": "lastVersions",
+    "drop": 0
+  },
+  {
+    "table": "lockers",
+    "drop": 0
+  },
+  {
+    "table": "lockertimes",
+    "drop": 0
+  },
+  {
+    "table": "models",
+    "drop": 0
+  },
+  {
+    "table": "requiredVersions",
+    "drop": 0
+  },
+  {
+    "table": "usergroups",
+    "drop": 0
+  },
+  {
+    "table": "users",
+    "drop": 0
+  },
+  {
+    "table": "verified_info",
+    "drop": 0
+  }
+]

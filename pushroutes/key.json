@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "swnet-android",
+  "private_key_id": "216848cd673dd147d62786e6f9036130435121a9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDHyjDpP/+yBVwN\nzVSb+DlEq46cnM5bLv+sCjVgdPrBSCwBM55kwyR6U+oBvnLfd9QkmSLvGFZrfe9Y\n682m0XPl/vq+Xesz/W903qnxl6WGdoCg3AvFkKt7DyFeptWImQ1Kd81GnxRvU0cg\nz6w+FliG8tNTnjjNiy90QBqpUtMjc6TSUDSHOXvxsPULc1yAwyE2xbrLobmMI4aq\n1KApUNbHdipjzA2bZ+ETDdWo1RIKzGjSrWX9BB19NAFSRRhyrM0kR4cgKIxrfWUM\nZ5BJQENjqz0KwHw0I94CnUNsdLXUpyBhQsZm9jH0To1an4QkpN9OVL4B/CIwvy1D\nD3Apckj1AgMBAAECggEAGdtNWralb0L5z7B6CYiF0uEYHyU9ILhzru6QS2hAVrjy\nNwKY9oX559oJ4ElnYQwHWOg3yPVfo+BD1ICKGFOluge2qGIL0Wn0nY2+tU1wxvb5\nvTfVTy+ivdWutisF2jyip3dbSg9HDARdYX33Fv753Jc7KeiBhfqEPPmZ6b2WJVF0\n37g6KxvbGe3x/hBONbjaYForQlfdG3dXQlUs2pttdhyLwDZvsxp/+02owV+aJ9yF\n/WqyXgd11xm4Sj6362mlnVPyhaJDzO2tDdd4nytB5CeeKc+U2kIIiRylHXX1j3pY\nA78qiNcxHm3OXBgr+Kd7ZaAGkcxs8wTgkATyDamV6QKBgQDmwTgI5ri/oN1WDETf\ne3oWgGrZc35qG2itbDLTW/hsLSipJum7QWYLWrPo+m/hRebbdj1Lwo58fF0SXnGl\nxf8bEuGHGg2oioxyTiZPAYTzBaaFOSIGEc1P7avKzS9I3R5fQ0UIoGWxMHxX+48U\nZjXl4qjdONzTAujwse0gcrnNyQKBgQDdpbt9tJ5mC7E88udHmrtY7If4Lzq9relI\n+Y+823ZXGow6ZjxldLR/TmBd4SiubWRxlmXNOeI4xh4o5XGbR/M6Qm2OyrwsC+/T\nDwHdi60Q5W6FQ+9n5oE9PcRhGWrWDnu5Kzxec6OOj+y3DaGJYa8pzMFuFSEgutyv\nhRk5acgHzQKBgQC4Z461JlRb510aB8H+anm9g7BfyDks6Gx1srLHT4cuQ8RrsQo2\nN+QpjLmbpI9GEouTtGD1qywc9XGXXVwq4xij9Sm/wqVJnDbyndtlZcxuPYS+kFLN\nUOqnRkL0VZbE/tfnvyVq6Gt790hXM1Q7NBc8eC8EYw2tn3Sx7S6XsLclaQKBgQDN\nHpU2rjJwqZ1qlDipMW7zymHCsqKf6xQbbqkw08DetzjSys5V7f0kW3ofJ0Iouh/c\nZpzrogfTFrXOjxfl5l4XqmYNYV1nPdzB6/+D8cFGA62WMtqZwt4TuNfGLGmMk3a4\nVGTX3Bie1F7ywPCfXQFno4/WukMgMQ4OeRRw544weQKBgAuwHfv5Q9a9Vjzj3tka\nQ3m2uOZO27APBFTmE72meWpupuPfMYvxx/ipsOk2ao/UcCL0fXYdU+BexLTtDnXT\nmta/vTS3MxmxaDbmLtSK6pT0NG4c4DBbmVvP8S82u/Pg9rNhp5F2VVmSdHlEBpQN\nAeZ7EA3uR84NmtqE55R/Uofq\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-9yjri@swnet-android.iam.gserviceaccount.com",
+  "client_id": "116440518451648524901",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-9yjri%40swnet-android.iam.gserviceaccount.com"
+}

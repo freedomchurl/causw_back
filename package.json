@@ -1,0 +1,27 @@
+{
+  "name": "swnet_back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cheol",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "express": "^4.17.1",
+    "express-zip": "^3.0.0",
+    "fast-csv": "^4.0.2",
+    "iconv-lite": "^0.6.2",
+    "jsonwebtoken": "^8.5.1",
+    "multer": "^1.4.2",
+    "mysql": "2.17.1",
+    "mysql2": "^2.1.0",
+    "nodemailer": "^6.4.2",
+    "nodemailer-smtp-transport": "^2.7.4",
+    "sequelize": "^5.21.3",
+    "utf-8": "^2.0.0"
+  }
+}
